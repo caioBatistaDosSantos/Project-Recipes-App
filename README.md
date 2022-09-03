@@ -46,7 +46,7 @@ Este Projeto contêm testes automatizados!
 1. Clone o repositório com o comando:
   - `git clone git@github.com:caioBatistaDosSantos/Project-Recipes-App.git`;
     - Entre na pasta do repositório:
-      - `cd Project-Trybe-Futebol-Club---TFC`
+      - `cd Project-Recipes-App`
 2. Instale as dependencia com o comando:
   - `npm install`
 3. Inicie a aplicação com o comando:
