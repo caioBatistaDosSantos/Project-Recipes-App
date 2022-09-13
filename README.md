@@ -18,7 +18,7 @@ Nesse projeto, fui capaz de:
 
 ---
 
-## O que foi ser desenvolvido
+## O que foi desenvolvido
 
 Este projeto contém um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
 
